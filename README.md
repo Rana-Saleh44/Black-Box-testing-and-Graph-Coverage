@@ -1,2 +1,2 @@
-# Software-Testing-and-Quality-Assurance-Assignment-1
+# Software-Testing-and-Quality-Assurance
 Black Box testing and Graph Coverage
